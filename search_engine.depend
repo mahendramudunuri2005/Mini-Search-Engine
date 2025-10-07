@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1729525407 source:c:\users\hp\desktop\search_engine\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cerrno>
+	<cstring>
+	<vector>
+	<unordered_map>
+	<iostream>
+	<dirent.h>
+	<sys/stat.h>
+	<fstream>
+	<string>
+	<sstream>
+	<unordered_map>
+	<vector>
+	<algorithm>
+
